@@ -1,0 +1,126 @@
+body{
+	background-color: black;
+}
+.bs{
+	position: absolute;
+	background-color: #5DFCB2;
+	display: block;
+	width: 100%;
+	height: 20%;
+	left: 0px;
+	top: 0px;
+    z-index: 1;
+}
+
+.TG1{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 17.2%;
+	top: -14%;
+	z-index: 2;
+}
+.TG2{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 26%;
+	top: -14%;
+	z-index: 2;
+}
+.TG3{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 34.8%;
+	top: -14%;
+	z-index: 2;
+}
+.TG4{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 43.6%;
+	top: -14%;
+	z-index: 2;
+}
+.TG5{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 52.4%;
+	top: -14%;
+	z-index: 2;
+}
+.TG6{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 61.2%;
+	top: -14%;
+	z-index: 2;
+}
+.TG7{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 70%;
+	top: -14%;
+	z-index: 2;
+}
+.TG8{
+	color: black;
+	font-family: 'Segoe UI Black';
+	font-size: 90px;
+	text-align: justify;
+	position: absolute;
+	left: 78.8%;
+	top: -14%;
+	z-index: 2;
+}
+
+.Texto2{
+	position: absolute;
+	left: 0%;
+	top: 10%;
+	width: 100%;
+	height: 60%;
+}
+
+.color2{
+	text-align: center;
+	color: white;
+	font-family: 'Segoe UI Black';
+	font-size: 100px;
+	text-align: center;
+}
+
+.cs{
+	position: absolute;
+	left: 80%;
+	top: 75%;
+	width: 20%;
+	height: 20%;
+}
+
+.ds{
+	text-align: center;
+	color: #5DFCB2;
+	font-family: 'Segoe UI Black';
+	font-size: 65px;
+	text-decoration: none;
+}
